@@ -21,7 +21,7 @@ Contains a Macro that activates the cell from which the return value of the foll
 
 ExpandList
 Provide a starting cell reference and a patran list.
-The program will output a column starting from the starting cell with the expanded list (exapnding n:m, n:m:s type lists)
+The program will output a column starting from the starting cell with the expanded list (exapnding n:m, n: m :s type lists)
 
 SelectionToClipboard
 Turns the content of the selected cells into a space separated list and safes it to the clipboard, so it can be pasted into patran.
