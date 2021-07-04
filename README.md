@@ -29,3 +29,6 @@ Turns the content of the selected cells into a space separated list and safes it
 
 SelectionToClipboardPatranCompress
 Same as above but with compression (n:m and n:m:s)
+
+# Envelope
+A macro to create envelopes for 2D Data. Splits data into quadrants and creates envelopes for each quadrant including the necessary intermediate points to square off and connect the plot segments.
