@@ -26,3 +26,6 @@ The program will output a column starting from the starting cell with the expand
 SelectionToClipboard
 Turns the content of the selected cells into a space separated list and safes it to the clipboard, so it can be pasted into patran.
 (Ensure the first cell in the selection is an identifier or otherwise provide an identifier in patran (Elm, Node etc.) before pasting the list). No compression of the list (n:m) is done, so the lists will be long.
+
+SelectionToClipboardPatranCompress
+Same as above but with compression (n:m and n:m:s)
