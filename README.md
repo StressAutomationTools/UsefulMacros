@@ -32,3 +32,9 @@ Same as above but with compression (n:m and n:m:s)
 
 # Envelope
 A macro to create envelopes for 2D Data. Splits data into quadrants and creates envelopes for each quadrant including the necessary intermediate points to square off and connect the plot segments.
+
+# FormattingMacro
+ppt macros
+
+A macro allows the switching of the selected language of all shapes to either English UK, English US or German
+A further macro writes out the default sizes and positions of all shapes for the slide types in the presentation. The resulting layout file can then be used by two other macros to reposition and (optionally scale) the shapes in a presentation with content to match the template.
